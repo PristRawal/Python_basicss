@@ -34,7 +34,7 @@ It processes student marks and generates meaningful academic results.
 - Class statistics (highest, lowest, average)
 
 ### Concepts Demonstrated
-- Functions and modular design  
+- Functions.
 - Control flow (loops, conditions)  
 - Data structures (lists, dictionaries)  
 - Searching and sorting algorithms
