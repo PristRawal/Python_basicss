@@ -21,7 +21,8 @@ It models real-world entities such as books, users, and library operations.
 - **Decomposition** – separated into multiple modules
 
 ### 3. Student Grading System:
-     ### Overview
+
+### Overview
 This project focuses on algorithmic thinking and functional decomposition.  
 It processes student marks and generates meaningful academic results.
 
