@@ -1,6 +1,5 @@
 1.Basics:
 Basic code to show how OOPs , Numpy , Pandas , Functions and Loops work in Python.
-
 2. Library Managment System:
 ### Overview
 The Library Management System is a console-based application designed using Object-Oriented Programming principles.  
@@ -19,8 +18,7 @@ It models real-world entities such as books, users, and library operations.
 - **Polymorphism** – role-specific behavior  
 - **Abstraction** – library interface hides internal logic  
 - **Decomposition** – separated into multiple modules
-
-  3. Student Grading System:
+3. Student Grading System:
      ### Overview
 This project focuses on algorithmic thinking and functional decomposition.  
 It processes student marks and generates meaningful academic results.
